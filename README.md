@@ -1,9 +1,9 @@
-# DS Vendas
+# DB Delivery
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/danielbohnrs/dbdelivery/blob/master/LICENSE) 
 
 # Sobre o projeto
 
-https://dbdelivery.netlify.app/
+
 
 DB Delivery é um sistema de delivery, onde você pode cadastrar seus produtos que ficarão disponíveis para serem pedidos pelos seus clientes.
 
